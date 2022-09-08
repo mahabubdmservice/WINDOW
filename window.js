@@ -8,7 +8,7 @@ function add (num1, num2){
         function double (num){
             return num * 2;
         }
-        var total = double(result); //এখানে ফাংশনকে কলা করা হয়েছে রেজাল্ট ভ্যালু দিয়ে-
+        var total = double(result); //এখানে ফাংশনকে কল করা হয়েছে রেজাল্ট ভ্যালু দিয়ে-
         return total; 
 }
 // console.log('Outside result', result);
